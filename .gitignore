@@ -1,2 +1,26 @@
 ArcadeGame/Build 31-3-21/WindowsNoEditor/ArcadeGame/Content/Paks/ArcadeGame-WindowsNoEditor.pak
 ArcadeGame/Build 31-3-21/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+Build/WindowsNoEditor/ArcadeGame.exe
+Build/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+Build/WindowsNoEditor/ArcadeGame/Content/Paks/ArcadeGame-WindowsNoEditor.pak
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_ClothingPROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/APEX_LegacyPROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/ApexFrameworkPROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/NvClothPROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64/WinPixEventRuntime.dll
+Build/WindowsNoEditor/Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll
+Build/WindowsNoEditor/Engine/Binaries/Win64/turbojpeg.dll
+Build/WindowsNoEditor/Engine/Binaries/Win64/UE4Game.exe
+Build/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe
